@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirstAndroid</string>
+    <string name="Hello_world">Hello from Sanjay's Dragonboard</string>
 </resources>
